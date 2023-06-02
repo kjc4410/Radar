@@ -1,5 +1,6 @@
 # Radar
-
+![image](https://github.com/seunghwanly/mobius-docker/assets/87844641/64a14ed3-fa1d-48b8-b2b2-a2f4747ce36a)
+<br>
 레이더는 파워로직스사의 제품으로 "TSF-P100" 모델을 사용하였고, 물체를 감지하고 움직임이 있을 때 데이터를 전송한다.<br>
 레이더 데이터는 아래와 같이 구성된다.
 * posX
